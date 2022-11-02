@@ -1,0 +1,62 @@
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.AssemblyReference.cache
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.AssemblyInfoInputs.cache
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.AssemblyInfo.cs
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.CoreCompileInputs.cache
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.exe
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.deps.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.runtimeconfig.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.pdb
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\scopedcss\bundle\BookingAPI.styles.css
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.CopyComplete
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\refint\BookingAPI.dll
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.pdb
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.genruntimeconfig.cache
+C:\Users\AJhajhria\OneDrive - Affinion Group\Desktop\BookingAPI\BookingAPI\BookingAPI\obj\Debug\net6.0\ref\BookingAPI.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.exe
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.deps.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.runtimeconfig.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\BookingAPI.pdb
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.AssemblyReference.cache
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.AssemblyInfoInputs.cache
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.AssemblyInfo.cs
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.CoreCompileInputs.cache
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\scopedcss\bundle\BookingAPI.styles.css
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.csproj.CopyComplete
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\refint\BookingAPI.dll
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.pdb
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\BookingAPI.genruntimeconfig.cache
+C:\Users\Rsingh2\source\repos\BookingAPI\BookingAPI\obj\Debug\net6.0\ref\BookingAPI.dll
