@@ -8,7 +8,7 @@ agent any
 stages {
 stage('Cloning our Git') {
 steps {
-git 'https://github.com/riyasingh26/Booking-API.git',branch: 'main'
+git url 'https://github.com/riyasingh26/Booking-API.git',branch: 'main'
 }
 }
 stage('Building our image') {
